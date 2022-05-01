@@ -25,8 +25,17 @@ li {
 ul {
 
     text-align: center;
+    border-color :red
 }
 
 body{
     background-color: #eee;
+}
+
+nav{
+border:solid black;
+}
+
+nav{
+    background-color: darkgrey;
 }
