@@ -33,9 +33,11 @@ body{
 }
 
 nav{
-border:10px solid black;
+border:21px groove black;
+/*border:51px groove;*/
+background-color: darkgrey;
 }
 
-nav{
-    background-color: darkgrey;
+/*nav{
+    
 }
